@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "119698091521",
+    "project_id": "badasi-2a92e",
+    "storage_bucket": "badasi-2a92e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119698091521:android:0fa7990640f024e0f01a00",
+        "android_client_info": {
+          "package_name": "com.example.badasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVLduNv4Hhiz6NHSYNkUyJi6ZQ61Z1Aig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119698091521:android:41ef9874bf19e952f01a00",
+        "android_client_info": {
+          "package_name": "com.mycompany.badasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVLduNv4Hhiz6NHSYNkUyJi6ZQ61Z1Aig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
